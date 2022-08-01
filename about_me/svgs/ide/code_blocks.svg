@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="137.07201"
+   height="26.027"
+   role="img"
+   aria-label="INTELLIJ"
+   version="1.1"
+   id="svg28"
+   sodipodi:docname="code_blocks.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2022-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs32" />
+  <sodipodi:namedview
+     id="namedview30"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     width="137.072px"
+     inkscape:zoom="7.487013"
+     inkscape:cx="60.170859"
+     inkscape:cy="20.702515"
+     inkscape:window-width="1364"
+     inkscape:window-height="733"
+     inkscape:window-x="70"
+     inkscape:window-y="70"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg28" />
+  <title
+     id="title2">INTELLIJ</title>
+  <linearGradient
+     id="s"
+     x2="0"
+     y2="39.242832"
+     gradientTransform="scale(1.9621417,0.50964719)"
+     x1="0"
+     y1="0"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0"
+       stop-color="#bbb"
+       stop-opacity=".1"
+       id="stop4" />
+    <stop
+       offset="1"
+       stop-opacity=".1"
+       id="stop6" />
+  </linearGradient>
+  <clipPath
+     id="r">
+    <rect
+       width="77"
+       height="20"
+       rx="3"
+       fill="#ffffff"
+       id="rect9"
+       x="0"
+       y="0" />
+  </clipPath>
+  <text
+     aria-hidden="true"
+     x="475"
+     y="150"
+     fill="#010101"
+     fill-opacity="0.3"
+     transform="scale(0.1)"
+     textLength="490"
+     id="text22"
+     lengthAdjust="spacing"
+     style="font-size:110px;font-family:Verdana, Geneva, 'DejaVu Sans', sans-serif;text-anchor:middle;text-rendering:geometricPrecision" />
+  <text
+     x="475"
+     y="140"
+     transform="scale(0.1)"
+     fill="#ffffff"
+     textLength="490"
+     id="text24"
+     lengthAdjust="spacing"
+     style="font-size:110px;font-family:Verdana, Geneva, 'DejaVu Sans', sans-serif;text-anchor:middle;text-rendering:geometricPrecision" />
+  <g
+     id="g34760"
+     transform="translate(4.99351,3.018822)">
+    <g
+       id="g34746">
+      <g
+         clip-path="url(#r)"
+         id="g18"
+         transform="matrix(1.7801445,0,0,1.3013674,-4.934657,-2.8044656)">
+        <rect
+           width="0"
+           height="20"
+           fill="#555555"
+           id="rect12"
+           x="0"
+           y="0" />
+        <rect
+           x="0"
+           width="77"
+           height="20"
+           fill="#000000"
+           id="rect14"
+           y="0" />
+        <rect
+           width="77"
+           height="20"
+           fill="url(#s)"
+           id="rect16"
+           style="fill:url(#s)"
+           x="0"
+           y="0" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffffff"
+       x="26.751001"
+       y="16.136972"
+       id="text14961"><tspan
+         sodipodi:role="line"
+         id="tspan14959"
+         x="26.751001"
+         y="16.136972">Code Blocks</tspan></text>
+    <g
+       transform="matrix(0.57143,0,0,0.57143,3.2469814,0.89083342)"
+       id="g10">
+      <path
+         fill="#e44545"
+         d="M 16,2 H 3.5 C 2.669,2 2,2.669 2,3.5 V 16 h 14 z"
+         id="path2" />
+      <path
+         fill="#38ac52"
+         d="M 16,2 H 28.5 C 29.331,2 30,2.669 30,3.5 V 16 H 16 Z"
+         id="path4" />
+      <path
+         fill="#f2ae37"
+         d="M 16,30 H 3.5 C 2.669,30 2,29.331 2,28.5 V 16 h 14 z"
+         id="path6" />
+      <path
+         fill="#3776f2"
+         d="M 16,30 H 28.5 C 29.331,30 30,29.331 30,28.5 V 16 H 16 Z"
+         id="path8" />
+    </g>
+  </g>
+  <metadata
+     id="metadata34762">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>INTELLIJ</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
